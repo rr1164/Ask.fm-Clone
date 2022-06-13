@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 
-#include "User_Question.cpp"
+#include "Thread.cpp"
+#include "Question.cpp"
+#include "User.cpp"
 using namespace std;
 #define QUESTION 0
 #define THREAD 1
