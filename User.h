@@ -2,7 +2,6 @@
 #define USER_H  
 #include "string"
 #include "vector"
-#include "Question.h"
 class Question;
 class User
 {

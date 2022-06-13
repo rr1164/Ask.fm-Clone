@@ -1,4 +1,5 @@
 #include "Question.h"
+#include "Thread.h"
 #include <bits/stdc++.h>
 using namespace std;
 Question::Question(int Question_type, int Question_id, string Question_text, int From_id, int To_id) {

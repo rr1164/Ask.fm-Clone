@@ -1,8 +1,8 @@
 #ifndef QUESTION_H
 #define QUESTION_H
-#include "Thread.h"
 #include <string>
 #include <vector>
+class Thread;
 class Question
 {
 public:

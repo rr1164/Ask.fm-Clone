@@ -1,4 +1,5 @@
 #include "User.h"
+#include "Question.h"
 #include "bits/stdc++.h"
 using namespace std;
 User::User(int theId, string theName, string theEmail, string thePassword, bool theAnon) {
